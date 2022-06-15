@@ -5,7 +5,7 @@ const alunos =[
     {nome: "Aline idade", idade: 13, sexo: "feminino"},
     {nome: "Pedro",idade: 15, sexo: "masculino"},
     {nome: "sofia", idade: 12, sexo: "feminino"},
-    {nome: "paloma", idade: 16, sexo: "feminino"},
+    {nome: "paloma", idade: 16, sexo: "feminino"}
 ]
 
 console.table(alunos.filter(function (a) {
